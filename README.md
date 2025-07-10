@@ -26,7 +26,8 @@
 
 ### 🚀 Projects & Highlights
 
-- ✨ [My Live Portfolio](https://trishab004.github.io/trisha-portfolio/) – First Website, Now Flying 🌠
+- ✨ [My Live Portfolio](https://trishab004.github.io/trisha-site/)
+– [First Website, Now Flying 🌠](https://trishab004.github.io/trisha-portfolio/) 
 - 🐟 AI Research Paper – CNN for Fish Freshness Prediction (NCRTST’25)
 - 📊 SQL-Based Crime Pattern Dashboard (Coming soon!)
 - 🏢 Restaurant Management System – Frontend + AI Module (Launching very soon too!)
