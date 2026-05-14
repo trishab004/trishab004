@@ -112,7 +112,6 @@ When I'm not writing code, I'm probably —
 
 - 🔭 Building more Java projects to sharpen my backend instincts
 - 🌱 Deepening my understanding of Computer Networks & System Design
-- 📖 Preparing for TCS NQT (Core Java domain)
 - 🚀 Always looking for the next interesting problem to solve
 
 ---
